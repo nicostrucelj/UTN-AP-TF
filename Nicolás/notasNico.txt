@@ -1,0 +1,3 @@
+Hola nico!
+Este archivo sirve como "commit" para hacer un comentario, cada vez que se realice un
+cambio en tu carpeta.
