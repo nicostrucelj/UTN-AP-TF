@@ -14,10 +14,10 @@ requisitos:
 
 ● El sitio debe contar con las siguientes Secciones:
 
-○ Presentación de la Organización (Componenete "Nosotros" de NavBar)
-○ Presentación Personal (Componente de "Nostros" )
-○ Formulario de Contacto (Componente "Contacto" de NavBar)
-○ Formulario de un Proceso (Ejemplos: Cotización o Reclamo) (Comoponente de "Contacto")
+# Presentación de la Organización (Componenete "Nosotros" de NavBar)
+#  Presentación Personal (Componente de "Nostros" )
+# Formulario de Contacto (Componente "Contacto" de NavBar)
+#  Formulario de un Proceso (Ejemplos: Cotización o Reclamo) (Comoponente de "Contacto")
 
 ● El sitio debe contar con un Formulario de Proceso:
 
@@ -42,12 +42,12 @@ Tecnologías a utilizar
 
 
 Paso a paso sugerido
-1) Definir Wireframes y Bocetos del Sitio
-2) Generar Repositorio Git
-3) Generar las Maquetas
-4) Pruebas de Concepto de las Librerías
-5) Implementación de JS
-6) Pruebas de Integración
+1) Definir Wireframes y Bocetos del Sitio (ok boceto juanpi y walter)
+2) Generar Repositorio Git (ok Jorge)
+3) Generar las Maquetas (Ok bootstrap)
+4) Pruebas de Concepto de las Librerías (no solicitado)
+5) Implementación de JS (funcion de suma para el carrito)
+6) Pruebas de Integración (no solicitado)
 
 
 Algunas Sugerencias
