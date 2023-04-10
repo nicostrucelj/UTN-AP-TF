@@ -1,7 +1,0 @@
-
-  function suma_carrito(){
-    
-  }
-  
-  
-  
